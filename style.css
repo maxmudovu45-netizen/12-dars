@@ -1,0 +1,30 @@
+body {
+  background-color: #2d3c4f;
+}
+.title {
+  color: white;
+  text-align: center;
+}
+.students {
+  color: #ff8c00;
+  text-align: center;
+}
+.form {
+  background-color: black;
+  text-align: center;
+  border-radius: 8px;
+}
+label {
+  color: white;
+}
+.polo {
+  width: 500px;
+  padding: 8px 2px;
+  border-radius: 5px;
+}
+.jins {
+  color: white;
+}
+.gender {
+  width: 10px;
+}
